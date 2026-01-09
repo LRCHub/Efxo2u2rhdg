@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "ラストダンス",
+  "base_artist": "Eve",
+  "createdAt": "2026-01-09T15:03:00.397529Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラストダンス",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_ラストダンス_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラストダンス",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/02_ラストダンス_Eve.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラストダンス",
+      "artist": "Seiko Oomori",
+      "has_synced": true,
+      "path": "select/03_ラストダンス_Seiko_Oomori.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Last Dance [ラストダンス]",
+      "artist": "Seiko Oomori",
+      "has_synced": true,
+      "path": "select/04_Last_Dance_[ラストダンス]_Seiko_Oomori.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ラストダンス",
+      "artist": "Eve (57)",
+      "has_synced": true,
+      "path": "select/05_ラストダンス_Eve_(57).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ラストダンス",
+      "artist": "Shogo Hamada",
+      "has_synced": false,
+      "path": "select/06_ラストダンス_Shogo_Hamada.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ラストダンス",
+      "artist": "Eve feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/07_ラストダンス_Eve_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ラストダンス",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/08_ラストダンス_Eve.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ラストダンス",
+      "artist": "Eve feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/09_ラストダンス_Eve_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ラストダンス",
+      "artist": "Base Ball Bear",
+      "has_synced": true,
+      "path": "select/10_ラストダンス_Base_Ball_Bear.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ラストダンス - Eve MV",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/11_ラストダンス_-_Eve_MV_Eve.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ラストダンス - Last Dance",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/12_ラストダンス_-_Last_Dance_Eve.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ラストチャンス、ラストダンス",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/13_ラストチャンス、ラストダンス_≠ME.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ラストダンス",
+      "artist": "大森靖子",
+      "has_synced": true,
+      "path": "select/14_ラストダンス_大森靖子.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ラストダンス",
+      "artist": "Oomori, Seiko",
+      "has_synced": true,
+      "path": "select/15_ラストダンス_Oomori,_Seiko.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ラストダンス (feat. Hatsune Miku)",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/16_ラストダンス_(feat._Hatsune_Miku)_Eve.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ラストダンス - Eve MV",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/17_ラストダンス_-_Eve_MV_Eve.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ラストダンス",
+      "artist": "Passepied",
+      "has_synced": false,
+      "path": "select/18_ラストダンス_Passepied.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ラストダンス (Last Dance) instrumental",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/19_ラストダンス_(Last_Dance)_instrumental_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラストダンス",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_ラストダンス_Eve.txt"
+    }
+  ]
+}
